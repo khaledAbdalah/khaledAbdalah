@@ -9,7 +9,7 @@ I am a tech enthusiast with a keen interest in software development. Although I 
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,alpinejs,mysql,wordpress,figma,git,github&perline=8)](https://skillicons.dev)
-![Livewire](https://img.shields.io/badge/Livewire-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Livewire" width="40" height="40"/>
 
 ## Top Projects
 
