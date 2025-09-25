@@ -14,4 +14,4 @@ I am a tech enthusiast with a keen interest in software development. Although I 
 
 ## Connect with Me
 
-- [Email](mailto:your-email@example.com) 
+- [Email](mailto:khaledabdalah488@gmail.com) 
